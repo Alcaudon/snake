@@ -1,2 +1,2 @@
-# snake
-Juego de snake HTML
+# Snake
+Juego de **snake** HTML
